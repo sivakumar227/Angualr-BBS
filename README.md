@@ -1,4 +1,5 @@
 # Angular-BBS
+updated it for fun
 ## English
 this is a angular project,it is a good learn for angular beginner,
 it is a bbs include: login for github， CRUD article，
